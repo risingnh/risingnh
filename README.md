@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Nafiz Hossain</h1>
+<h1 align="center">Hi there👋, I'm Md. Nafiz Hossain</h1>
 <h3 align="center">A passionate Web Designer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Personal Portfolio](https://dev-risingnh.pantheonsite.io/)
